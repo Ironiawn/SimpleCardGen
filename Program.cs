@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -69,7 +69,7 @@ namespace CardGenerator
             }
             else
             {
-                Console.WriteLine("############### DO CARD AVAILABLE ON THE LIST ######################");
+                Console.WriteLine("############### NO CARD AVAILABLE ON THE LIST ######################");
             }
 
             goto ListCards;
