@@ -1,0 +1,13 @@
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.exe
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.deps.json
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.runtimeconfig.json
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.runtimeconfig.dev.json
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.dll
+C:\Users\Snow\source\repos\CardGenerator\bin\Debug\netcoreapp3.1\CardGenerator.pdb
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.csprojAssemblyReference.cache
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.AssemblyInfoInputs.cache
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.AssemblyInfo.cs
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.dll
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.pdb
+C:\Users\Snow\source\repos\CardGenerator\obj\Debug\netcoreapp3.1\CardGenerator.genruntimeconfig.cache
